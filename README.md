@@ -75,6 +75,7 @@ Open the output file and add the **wget** at the beginning of each line as follo
 ![alt text](http://www.droidaddiction.com/game.png "Logo Title Text 1")
 
 
+![alt text](http://www.droidaddiction.com/rom.png "Logo Title Text 1")
 
 * Questions?
 
