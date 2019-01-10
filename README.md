@@ -6,7 +6,7 @@
 * Attach HDMI Display to the HDMI port of the ODROID XU4
 
  
-![alt text](http://www.droidaddiction.com//installation.png "Logo Title Text 1")
+![alt text](http://www.droidaddiction.com/installation.png "Logo Title Text 1")
 
 
 
@@ -18,6 +18,9 @@ There are 57623 ROMS and you can download all of them if you wish.
 
 
 * download odroid scrape files in your windows drive
+
+![alt text](http://www.droidaddiction.com/download.png "Logo Title Text 1")
+
 * https://github.com/ericeche/recalboxscrapegame
 * [RecalBox-Odroid scraper files](https://github.com/ericeche/recalboxscrapegame )
 
