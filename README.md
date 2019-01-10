@@ -1,5 +1,15 @@
 # RECALBOX-ODROIDXU4 Scrapper
 
+* Attach the USB 2.0 4 ports high speed hub to the front part of the ODROID XU4 as shown on the figure
+* Attach the 250 GB USB 3.0 to the back **top** USB port of the ODROID XU4
+* Attach Mouse,Keyboard and Joystick to the USB HIGH speed HUB
+* Attach HDMI Display to the HDMI port of the ODROID XU4
+
+ 
+![alt text](http://www.droidaddiction.com//installation.png "Logo Title Text 1")
+
+
+
 Head on to :
 
 [Edge Emulation ROMS](https://edgeemu.net/)
