@@ -72,6 +72,10 @@ Open the output file and add the **wget** at the beginning of each line as follo
 * Unzip  each file, and move the games to the proper directories under the ROMS_USB hard Drive directory.
 
 
+![alt text](http://www.droidaddiction.com/game.png "Logo Title Text 1")
+
+
+
 * Questions?
 
 Drop us an email at : [droidaddiction.com](http://www.droidaddiction.com/)
